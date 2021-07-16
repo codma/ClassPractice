@@ -1,0 +1,15 @@
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/bin/Debug/net5.0/SampleSimma.deps.json
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/bin/Debug/net5.0/SampleSimma.runtimeconfig.json
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/bin/Debug/net5.0/SampleSimma.runtimeconfig.dev.json
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/bin/Debug/net5.0/SampleSimma.dll
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/bin/Debug/net5.0/ref/SampleSimma.dll
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/bin/Debug/net5.0/SampleSimma.pdb
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/obj/Debug/net5.0/SampleSimma.csproj.AssemblyReference.cache
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/obj/Debug/net5.0/SampleSimma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/obj/Debug/net5.0/SampleSimma.AssemblyInfoInputs.cache
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/obj/Debug/net5.0/SampleSimma.AssemblyInfo.cs
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/obj/Debug/net5.0/SampleSimma.csproj.CoreCompileInputs.cache
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/obj/Debug/net5.0/SampleSimma.dll
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/obj/Debug/net5.0/ref/SampleSimma.dll
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/obj/Debug/net5.0/SampleSimma.pdb
+/Users/jinjoolee/Projects/SampleSimma/SampleSimma/obj/Debug/net5.0/SampleSimma.genruntimeconfig.cache
